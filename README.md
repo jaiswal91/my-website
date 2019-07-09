@@ -4,10 +4,10 @@ This is really awesome Website
 
 Update made on master on Github before rebase
 
+## Purpose
 
 ## Repository Purpose
 
-This will be a change that conflicts
-with whatever is on the remote site.
-This was edited locally.
+This is just Readme file.
+
 
